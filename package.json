@@ -7,13 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-     "postinstall": "npm install --legacy-peer-deps"
+    "postinstall": "npm install --legacy-peer-deps"
   },
   "dependencies": {
     "next": "15.0.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typewriter-effect": "^2.21.0"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@types/node": "^20",
